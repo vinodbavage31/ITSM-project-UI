@@ -17,24 +17,6 @@
 
 ---
 
-##  Table of Contents
-
-- [About The Project](#-about-the-project)
-- [Tech Stack](#-tech-stack)
-- [Features](#-features)
-- [Getting Started](#-getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Running Locally](#running-locally)
-- [Project Structure](#-project-structure)
-- [Backend Integration](#-backend-integration)
-- [Deployment](#-deployment)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
-
----
-
 ##  About The Project
 
 This is the **frontend interface** for the ITSM (IT Service Management) Predictive Automation project. It provides an intuitive dashboard to interact with machine learning models that predict incident priorities, forecast ticket volumes, and automate department tagging.
